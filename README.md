@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://github.com/Narnayak95/3-column-preview-card]
 - Live Site URL: [Add live site URL here]
 
 ## My process
