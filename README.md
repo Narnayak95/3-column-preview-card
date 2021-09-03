@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot_desktop.jpg](screenshot_desktop.jpg)
+![screenshot_desktop.jpg](https://github.com/Narnayak95/3-column-preview-card/blob/main/Screenshot_desktop.jpg)
+![screenshot_mobile.jpg](https://github.com/Narnayak95/3-column-preview-card/blob/main/Screenshot_mobile.jpg)
 
 ### Links
 
